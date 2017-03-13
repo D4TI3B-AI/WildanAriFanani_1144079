@@ -1,10 +1,10 @@
 import time
 start_time = time.time()
 print("menghitung nilai ")
-a = input("input nilai pertama : ")
-b = input("input nilai kedua : ")
-c = input("input nilai ketiga : ")
-d = input("input nilai keempat : ")
+a = raw_input("input nilai pertama : ")
+b = raw_input("input nilai kedua : ")
+c = raw_input("input nilai ketiga : ")
+d = raw_input("input nilai keempat : ")
 
 if a == 'satu':
 	a=1
